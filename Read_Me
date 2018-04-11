@@ -1,0 +1,2 @@
+Module_ChattingUI : 네트워크 연결x 단일 chatting, 자체 UI
+Module MultiChatting : 네트워크 연결o, 멀티 chatting (Module ChattingUI 업그레이드 버전) 
